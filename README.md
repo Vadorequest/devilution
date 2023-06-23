@@ -2,7 +2,8 @@ Adding keyboard movements and controller support.
 
 ## Video
 
-![https://www.youtube.com/watch?v=Ti4LgdTQ6cE](https://img.youtube.com/vi/Ti4LgdTQ6cE/0.jpg)
+[![Diablo 1 PC Keyboard & Xbox Controller Mod ](https://img.youtube.com/vi/Ti4LgdTQ6cE/0.jpg)](https://www.youtube.com/watch?v=Ti4LgdTQ6cE "Diablo 1 PC Keyboard & Xbox Controller Mod")
+
 
 ## Layout
 
